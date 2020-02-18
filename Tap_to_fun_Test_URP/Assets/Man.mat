@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Man
+  m_Shader: {fileID: -6465566751694194690, guid: b56a8900d36b532418f1375e86051597,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_84E28EF:
+        m_Texture: {fileID: 2800000, guid: 8b3fd621d3d438a459231cf93e6443ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CB0D31B5:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_FC3BEB6E: {r: 1, g: 0, b: 0.89237976, a: 0}
+    - _L1_color: {r: 1.3024372, g: 1.3024372, b: 1.3024372, a: 0.47778323}
+    - _L1_dir: {r: -0.68289405, g: 0.47501776, b: 0.55499, a: 0}
